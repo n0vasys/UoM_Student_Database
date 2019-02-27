@@ -1,0 +1,15 @@
+10101
+Programming I
+10
+10201
+Maths for Computer Scientists
+10
+10302
+Introductory Artificial Intelligence
+10
+20101
+Programming II
+10
+30304
+Advanced Techniques
+10

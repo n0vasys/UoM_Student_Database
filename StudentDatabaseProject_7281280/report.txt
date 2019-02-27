@@ -1,0 +1,24 @@
+[0] Thomas Daubney -- Physics Student
+
+	Unit: 10201 Maths I		Credits: 10
+
+	Coursework Name: Final Exam	Mark: 73%	Unit Percentage: 100%
+
+[1] Rosalyn Land -- Computer Science Student
+
+	Unit: 10302 Introductory Artificial Intelligence		Credits: 10
+
+	Coursework Name: Final Exam	Mark: 100%	Unit Percentage: 100%
+
+[2] John Doe -- Computer Science Student
+
+	Unit: 10101 Programming I		Credits: 10
+
+	Coursework Name: Final Exam	Mark: 67%	Unit Percentage: 100%
+
+	Unit: 10201 Maths for Computer Scientists		Credits: 10
+
+	Coursework Name: Final Exam	Mark: 45%	Unit Percentage: 80%
+
+	Coursework Name: Assignments	Mark: 67%	Unit Percentage: 20%
+

@@ -1,0 +1,12 @@
+10101
+Chemistry
+10
+10201
+Maths I
+10
+10203
+Maths II
+10
+20101
+Electromagnetism
+10
